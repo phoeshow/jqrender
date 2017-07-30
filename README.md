@@ -1,2 +1,8 @@
 # jqrender
-render handlerbars template
+Render handlerbars template.
+
+##Usage
+
+``` javascript
+$('#template').render(data)
+```
